@@ -4,7 +4,7 @@
 
 **Hypothesis** 
 
-We have some code that authenticate a customer by _Basic Authentication_. Some of our customers can not provide this  
+We have some code that authenticate a customer by _Basic Authentication_. Some of our customers can not provide this 
 authentication header. To service these customers we want some middleware to allow authentication via credentials via 
 HTTP POST or GET. 
 
