@@ -1,0 +1,13 @@
+{
+    "name": "tradaware/assessments",
+    "license": "propriatary",
+    "authors": [
+        {
+            "name": "proggeler",
+            "email": "proggeler@de-mes.nl"
+        }
+    ],
+    "require": {
+        "php": ">=8.0"
+    }
+}
