@@ -4,8 +4,8 @@
 
 **Hypothesis** 
 
-We have some code that authenticate a customer by _Basic Authentication_. Some of our customers can not provide this 
-authentication header. To service these customers we want some middleware to allow authentication via credentials via 
+We have some code that authenticates a client by _Basic Authentication_. Some of our clients can not provide this 
+authentication header. To service these clients we want some middleware to allow authentication via credentials via 
 HTTP POST or GET. 
 
 > Credentials must be defined by the parameters **username** and **password**.
@@ -37,8 +37,4 @@ Happy programming and good luck.
 
 * [PSR-15](https://www.php-fig.org/psr/psr-15/)
 * [Basic Authentication](https://datatracker.ietf.org/doc/html/rfc7617)
-
-
-
-
 
