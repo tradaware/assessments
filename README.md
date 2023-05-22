@@ -9,6 +9,7 @@ authentication header. To service these clients we want some middleware to allow
 HTTP POST or GET. 
 
 > Credentials must be defined by the parameters **username** and **password**.
+> Both parameters are mandatory.
 
 **Assignment**
 
